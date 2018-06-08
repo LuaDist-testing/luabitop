@@ -1,10 +1,10 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "luabitop"
-version = "1.0.2-1"
+version = "1.0.2-2"
 -- LuaDist source
 source = {
-  tag = "1.0.2-1",
+  tag = "1.0.2-2",
   url = "git://github.com/LuaDist-testing/luabitop.git"
 }
 -- Original source
@@ -22,7 +22,7 @@ Lua BitOp is Copyright © 2008 Mike Pall. Lua BitOp is free software, released u
    license = "MIT/X license"
 }
 dependencies = {
-   "lua >= 5.1"
+   "lua >= 5.1, < 5.3"
 }
 build = {
    type = "builtin",
