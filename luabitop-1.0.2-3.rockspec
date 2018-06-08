@@ -1,17 +1,19 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "luabitop"
-version = "1.0.2-2"
+version = "1.0.2-3"
+
 -- LuaDist source
 source = {
-  tag = "1.0.2-2",
+  tag = "1.0.2-3",
   url = "git://github.com/LuaDist-testing/luabitop.git"
 }
 -- Original source
 -- source = {
---    url = "http://bitop.luajit.org/download/LuaBitOp-1.0.2.tar.gz",
---    md5 = "d0c1080fe0c844e8477279668e2d0d06"
+--   url = "git://github.com/LuaDist/luabitop.git",
+--   branch = "1.0.2"
 -- }
+
 description = {
    summary = "Lua Bit Operations Module",
    detailed = [[
