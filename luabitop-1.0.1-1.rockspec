@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package="luabitop"
-version="1.0.0-1"
+version="1.0.1-1"
 -- LuaDist source
 source = {
-  tag = "1.0.0-1",
+  tag = "1.0.1-1",
   url = "git://github.com/LuaDist-testing/luabitop.git"
 }
 -- Original source
 -- source = {
--- 	url = "http://bitop.luajit.org/download/LuaBitOp-1.0.0.tar.gz",
--- 	md5 = "3d03e53828b7657b295371b31130ab59"
+-- 	url = "http://bitop.luajit.org/download/LuaBitOp-1.0.1.tar.gz",
+-- 	md5 = "39984456940aea838e0f500bececbd73"
 -- }
 description = {
 	summary = "Lua Bit Operations Module",
